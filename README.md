@@ -2,7 +2,7 @@
 
 connect raspi with camera using opencv2
 
-##To Connect Official Camera Board
+## To Connect Official Camera Board
 
 Firstly you should update the raspi-config
 
